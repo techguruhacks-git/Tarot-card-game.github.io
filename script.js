@@ -49,7 +49,7 @@ const cards = [
       cardInner.appendChild(cardBack);
 
       cardContainer.appendChild(cardInner);
-      
+
       fortuneContainer.appendChild(cardContainer);
 
 
@@ -64,6 +64,7 @@ shuffleSound.play();
       }, 500);
     }, 1000);
   }
+  
   
   shuffleButton.addEventListener("click", shuffleCards);
 

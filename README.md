@@ -1,5 +1,8 @@
 # Fortune-card-game.github.io
  
+Disclaimer: This project is made by Tutorial and I add some features and change the user interface also take help of AI to solve some error only.
+
+
 Highseas Fortune Card Game:
 
 This project Have an interactive "Fortune card flip" effeect using HTML , CSS and Javascript.
